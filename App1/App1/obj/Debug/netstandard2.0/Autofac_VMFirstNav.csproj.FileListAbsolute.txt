@@ -1,0 +1,27 @@
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\bin\Debug\netstandard2.0\Autofac_VMFirstNav.deps.json
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\bin\Debug\netstandard2.0\Autofac_VMFirstNav.dll
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\bin\Debug\netstandard2.0\Autofac_VMFirstNav.pdb
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Autofac_VMFirstNav.csprojAssemblyReference.cache
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Views\Page2.xaml.g.cs
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Views\Page3.xaml.g.cs
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Autofac_VMFirstNav.csproj.CoreCompileInputs.cache
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Autofac_VMFirstNav.AssemblyInfoInputs.cache
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Autofac_VMFirstNav.AssemblyInfo.cs
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Autofac_VMFirstNav.dll
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Autofac_VMFirstNav.pdb
+C:\_Xamarin\#\AutoFac_VMFirstNav\App1\App1\bin\Debug\netstandard2.0\Autofac_VMFirstNav.deps.json
+C:\_Xamarin\#\AutoFac_VMFirstNav\App1\App1\bin\Debug\netstandard2.0\Autofac_VMFirstNav.dll
+C:\_Xamarin\#\AutoFac_VMFirstNav\App1\App1\bin\Debug\netstandard2.0\Autofac_VMFirstNav.pdb
+C:\_Xamarin\#\AutoFac_VMFirstNav\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\_Xamarin\#\AutoFac_VMFirstNav\App1\App1\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+C:\_Xamarin\#\AutoFac_VMFirstNav\App1\App1\obj\Debug\netstandard2.0\Views\Page2.xaml.g.cs
+C:\_Xamarin\#\AutoFac_VMFirstNav\App1\App1\obj\Debug\netstandard2.0\Views\Page3.xaml.g.cs
+C:\_Xamarin\#\AutoFac_VMFirstNav\App1\App1\obj\Debug\netstandard2.0\Autofac_VMFirstNav.csproj.CoreCompileInputs.cache
+C:\_Xamarin\#\AutoFac_VMFirstNav\App1\App1\obj\Debug\netstandard2.0\Autofac_VMFirstNav.AssemblyInfoInputs.cache
+C:\_Xamarin\#\AutoFac_VMFirstNav\App1\App1\obj\Debug\netstandard2.0\Autofac_VMFirstNav.AssemblyInfo.cs
+C:\_Xamarin\#\AutoFac_VMFirstNav\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\_Xamarin\#\AutoFac_VMFirstNav\App1\App1\obj\Debug\netstandard2.0\Autofac_VMFirstNav.dll
+C:\_Xamarin\#\AutoFac_VMFirstNav\App1\App1\obj\Debug\netstandard2.0\Autofac_VMFirstNav.pdb

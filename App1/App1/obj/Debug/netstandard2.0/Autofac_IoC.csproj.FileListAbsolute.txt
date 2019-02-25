@@ -1,0 +1,14 @@
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Autofac_IoC.csprojAssemblyReference.cache
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Views\Page2.xaml.g.cs
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Views\Page3.xaml.g.cs
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Autofac_IoC.csproj.CoreCompileInputs.cache
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Autofac_IoC.AssemblyInfoInputs.cache
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Autofac_IoC.AssemblyInfo.cs
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\bin\Debug\netstandard2.0\Autofac_IoC.deps.json
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\bin\Debug\netstandard2.0\Autofac_IoC.dll
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\bin\Debug\netstandard2.0\Autofac_IoC.pdb
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Autofac_IoC.dll
+C:\_Xamarin\#\AutoFac_IOC - Copy\App1\App1\obj\Debug\netstandard2.0\Autofac_IoC.pdb
